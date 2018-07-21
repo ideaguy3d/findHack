@@ -1,6 +1,6 @@
-# StreetView App v2 UI
+# Find a team at a hack a thon app
 
-[StreetView v2](https://maps.mhetadata.com/sv2)
+[Stockton Mini Hack](https://valleyhackathon.com/events/StocktonMini2018)
 
 ***
 
